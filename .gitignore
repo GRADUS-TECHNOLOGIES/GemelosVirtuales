@@ -1,0 +1,45 @@
+# ===========================
+# Unity Official Git Ignore
+# ===========================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio cache
+.vs/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# Rider
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Unity meta cache
+*.pidb
+*.booproj
+
+# Addressables
+aa.meta
+aa/
+
+# Memory captures
+*.snap
+
+# Crash reports
+sysinfo.txt
+
+# NavMesh build artifacts
+*.navmesh
+
+# Packages lock (optional)
+# Packages/packages-lock.json
